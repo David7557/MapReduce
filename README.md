@@ -52,7 +52,7 @@ output of reducer:  key,value
 3. Go to file--new project--create java project
 4. Right click on your java project on LHS--create a new class such as wordcount.
 5. Now write the program in your class.
-6. Configure your program to hadoop jar files(hadoop-common-2.2.0.jar and hadoop-mapreduce-client-core-2.2.0.jar)
+6. Configure your program to hadoop jar files(*hadoop-common-2.2.0.jar and *hadoop-mapreduce-client-core-2.2.0.jar)
 6.1  Right click on your class name on LHS --build configure path--add hadoop jar files to your Program
 7. Build the jar file of your program.
 Right click on your class name on LHS--export-click jar file inside java--select the 

@@ -5,7 +5,6 @@ MapReduce projects can be used to process a wide variety of data sets, including
 
 input format and record reader-----passing the contents to mapper..
 
-
 input file:
 
 hadoop is fun

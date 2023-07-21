@@ -14,7 +14,7 @@ split1: 0 ,hadoop is fun
 split2: 1 ,fun with hadoop
 
 
-Input to mapper:key: offset value(0)long
+Input to mapper:Key: offset value(0)long
                 value: entire line(hadoop is fun)text 
 map()1: hadoop,1
 	is,1
